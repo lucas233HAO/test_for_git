@@ -1,0 +1,1 @@
+On vous demande dans cette question, d'adapter ce Makefile qui va permettre de compiler puis d'executer automatiquement le programme Java (la télécommande de 
